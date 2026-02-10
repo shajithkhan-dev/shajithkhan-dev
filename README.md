@@ -74,6 +74,9 @@
 <p align="left">
   <a href="mailto:shajithkhanprof@gmail.com"><img src="https://img.icons8.com/fluency/48/new-post.png"/></a>
   <a href="https://www.linkedin.com/in/mohammed-shajith-khan-196918292"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+    <a href="https://shajithkhan-dev.github.io/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/web.png"/>
+  </a>
 </p>
 
 ---
