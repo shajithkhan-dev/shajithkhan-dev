@@ -21,13 +21,14 @@
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ0cDd5cWJmZ2cyMnVtZWppMWs2dWdvZW9sanZic3BpYmxoc2ppeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80dm1tYTBrM2NzNThtN3Qxc3FqZjU0a3c2aHdwN3ZwNjU5NG9sZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="45" height="45"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80dm1tYTBrM2NzNThtN3Qxc3FqZjU0a3c2aHdwN3ZwNjU5NG9sZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" height="45"/>
 
 </p>
 
