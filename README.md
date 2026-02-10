@@ -64,9 +64,14 @@
 
 ---
 
+## 📈 Stats and Dev Activity
+![Shajith's GitHub stats](https://readme-stats-fast.vercel.app/api?username=shajithkhan-dev&show_icons=true&theme=transparent)
+
+---
+
 ## 🌐 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:shajithkhanprof@gmail.com"><img src="https://img.icons8.com/fluency/48/new-post.png"/></a>
   <a href="www.linkedin.com/in/mohammed-shajith-khan-196918292"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
 </p>
