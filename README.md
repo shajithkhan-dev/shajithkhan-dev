@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Mohammed Shajith Khan</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Python, SQL, Power BI | Chennai, India</h3>
 
 <p align="center">
   Transforming structured and unstructured data into business-ready insights and decision tools.
