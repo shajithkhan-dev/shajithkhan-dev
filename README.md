@@ -38,14 +38,14 @@
 
 ### 🛒 Sales & Retail Data Analysis  
 📈 Explored sales performance, profit trends, and top product categories  
-🐍 Cleaned and analyzed data using **Python (Pandas)**  
+🐍 Conducted exploratory data analysis to identify revenue drivers and seasonal sales patterns  
 📊 Created visual insights using **Matplotlib**
 
 ---
 
 ### 💼 Employee Salary Dashboard  
 📊 Interactive **Power BI dashboard** analyzing salary vs experience  
-📌 Built KPIs and data models for department-level insights  
+📌 Designed a KPI-driven data model to evaluate workforce compensation trends  
 🧮 Data prepared using **Excel**
 
 ---
@@ -54,6 +54,15 @@
 📉 Analyzed order trends and product demand patterns  
 🐍 Used **Python** for data analysis  
 📊 Visualized performance metrics through dashboards
+
+---
+
+## 🏗 Data Modeling Approach
+
+- ⭐ Designed Star Schema data models  
+- 📊 Structured Fact & Dimension tables for scalable analytics  
+- 📌 Built KPI-driven dashboards aligned with business questions  
+- 🔮 Integrated forecasting models into BI reports for decision support
 
 ---
 
