@@ -82,10 +82,10 @@
 ## 🌐 Let’s Connect
 
 <p align="left">
-  <a href="mailto:shajithkhanprof@gmail.com"><img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif"/ width="65" height="55"></a>
-  <a href="https://www.linkedin.com/in/mohammed-shajith-khan-196918292"><img src="https://cdn.dribbble.com/userupload/42224959/file/original-67dc55d76725e0d116882a5b9f24dd44.gif"/ width="75" height="120"></a>
+  <a href="mailto:shajithkhanprof@gmail.com"><img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="75" height="120"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-shajith-khan-196918292"><img src="https://cdn.dribbble.com/userupload/42224959/file/original-67dc55d76725e0d116882a5b9f24dd44.gif" width="75" height="120"/></a>
     <a href="https://shajithkhan-dev.github.io/" target="_blank">
-    <img src="https://media.lordicon.com/icons/wired/flat/1023-portfolio.gif" width="45" height="45"/>
+    <img src="https://media.lordicon.com/icons/wired/flat/1023-portfolio.gif"  width="75" height="56.4"/>
   </a>
 </p>
 
