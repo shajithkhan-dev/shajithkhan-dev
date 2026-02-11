@@ -2,14 +2,14 @@
 <h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
 
 <p align="center">
-  I turn raw data into dashboards, insights, and decisions.
+  Transforming structured and unstructured data into business-ready insights and decision tools.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate stepping into the world of **Data Analytics**
+- 🎓 BCA graduate specializing in business intelligence and data-driven decision support.
 - 🧠 Strong in **Excel, Power BI, SQL, and Python**
 - 📊 Love building dashboards and finding hidden trends in data
 - 🌱 Currently improving **data modeling & analytics skills**
@@ -21,14 +21,14 @@
 
 <p align="left">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ0cDd5cWJmZ2cyMnVtZWppMWs2dWdvZW9sanZic3BpYmxoc2ppeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="45" height="45" />
+<img src="https://img.icons8.com/color/1200/python--v2.jpg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-<img src="https://cdn.dribbble.com/userupload/42386139/file/original-ace4ceffff5c55ecd9062534764350a2.gif" width="70" height="45"/>
+<img src="https://cdn.pixabay.com/photo/2023/06/01/12/02/excel-logo-8033473_640.png" width="70" height="45"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80dm1tYTBrM2NzNThtN3Qxc3FqZjU0a3c2aHdwN3ZwNjU5NG9sZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="45" height="45"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80dm1tYTBrM2NzNThtN3Qxc3FqZjU0a3c2aHdwN3ZwNjU5NG9sZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" height="45"/>
+<img src="https://images.icon-icons.com/2406/PNG/512/github_git_icon_145985.png" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png" width="45" height="45"/>
 
 </p>
 
